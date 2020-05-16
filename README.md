@@ -1,2 +1,2 @@
 # final-project
-This story will explore whether New Yorkers are reporting more house parties during stay-at-home orders. 
+I'm looking to find out if more new yorkers have lodged noise complaints against neighbors since stay-at-home orders were issued. S
